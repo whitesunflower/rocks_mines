@@ -5,12 +5,12 @@
      read_data.py : 读取数据到列表，确定数据集规模。
        corrCalc.py: 皮尔逊相关系数
        corrPlot.py: 属性交会图
-  data_analysis.py: 统计数据
-    data_counts.py: 确定属性特征
+    data_analysis.py: 统计数据
+      data_counts.py: 确定属性特征
       linePlots.py: 利用平行坐标图可视化数据
- pandasReadSummarize.py: 利用pandas读取数据，将数据读入dataframe，并且查看基本统计信息。
+    pandasReadSummarize.py: 利用pandas读取数据，将数据读入dataframe，并且查看基本统计信息。
        plotAttribute.py: 利用分位数图查看数据异常点
-   sampleCorrHeatMap.py: 热力图
+    sampleCorrHeatMap.py: 热力图
           targetCorr.py: 属性、标签相关性
 ## 运行环境
 python3.7
